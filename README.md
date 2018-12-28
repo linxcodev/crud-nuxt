@@ -4,5 +4,5 @@
 
 ## Build Setup
 
-Nuxtjs [Nuxt.js docs](https://nuxtjs.org).
-Json Placeholder [jsonplaceholder docs](https://jsonplaceholder.typicode.com).
+For Documentation [Nuxt.js docs](https://nuxtjs.org) &
+[jsonplaceholder docs](https://jsonplaceholder.typicode.com).
