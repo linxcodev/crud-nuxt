@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "My scrumtrulescent Nuxt.js project",
+  "author": "Ahmad Fajrul Falah",
+  "private": true,
+  "scripts": {
+    "dev": "NUXT_HOST=0.0.0.0 NUXT_PORT=3333 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "bulma": "^0.7.2",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
